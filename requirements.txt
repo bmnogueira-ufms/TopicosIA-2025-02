@@ -1,6 +1,9 @@
 pandas==2.2.3
 nltk==3.9.1
-numpy==1.26.4
+numpy==1.13.1
 matplotlib==3.10.1
 scikit-learn==1.6.1
 seaborn==0.13.2
+torch==2.2.2
+gensim==4.3.3
+sentence-transformers==5.1.0
