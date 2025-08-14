@@ -13,7 +13,6 @@
 - [Como usar (Colab ou local)](#como-usar-colab-ou-local)
   - [Google Colab (recomendado)](#google-colab-recomendado)
   - [Ambiente local (venv)](#ambiente-local-venv)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ---
@@ -102,12 +101,6 @@ Para exibir uma imagem no notebook: `![Evolução](images/evolucao_modelos.png)`
 4) **Execute** o Jupyter:
 
     jupyter lab   # ou: jupyter notebook
-
----
-
-## Licença
-- **Código**: MIT  
-- **Conteúdo (textos/imagens da disciplina)**: CC BY-NC 4.0
 
 ---
 
