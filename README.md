@@ -3,8 +3,6 @@
 > Repositório da disciplina de graduação da FACOM/UFMS focada em **Modelos de Linguagem (LLMs)**: fundamentos, prática e aplicações.
 
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bmnogueira-ufms/TopicosIA-2025-02)  
-Se o nome do repositório for outro, ajuste o link acima.
-
 ---
 
 ## Sumário
